@@ -1,3 +1,3 @@
 # mustafacendek.github.io
-Personel Website
+Personel Website  
 [Görüntülemek için tıklayın](https://mustafacendek.github.io)
